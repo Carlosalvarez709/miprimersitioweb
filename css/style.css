@@ -23,3 +23,27 @@ p{
   color: blue;
   text-align: center;
 }
+redes{
+  padding: 45px;
+  text-align: center;
+
+}
+redes h3{
+  font-family: gabriola;
+  text-align: center;
+  font-weight: bold;
+
+
+}
+
+sociales {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: inline-block;
+
+}
+
+sociales a{
+  display: inline-block;
+}
